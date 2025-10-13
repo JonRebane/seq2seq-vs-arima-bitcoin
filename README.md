@@ -1,4 +1,4 @@
-# Seq2SeqVsARIMA-Bitcoin
+# seq2seq-vs-arima-bitcoin
 
 Author: Jonathan Rebane
 
